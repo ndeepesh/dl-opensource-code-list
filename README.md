@@ -4,3 +4,4 @@
 3. Generating Cat faces - https://github.com/AlexiaJM/Deep-learning-with-cats
 4. Neural Network Zoo(lisst of all neural networks architectures) - http://www.asimovinstitute.org/neural-network-zoo/
 5. Mario Bros RL game - https://github.com/pathak22/noreward-rl/
+6. Arrthymic Detection(Stanford) - https://stanfordmlgroup.github.io/projects/ecg/
