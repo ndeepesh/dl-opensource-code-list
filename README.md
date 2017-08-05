@@ -6,3 +6,4 @@
 5. Mario Bros RL game - https://github.com/pathak22/noreward-rl/
 6. Arrthymic Detection(Stanford) - https://stanfordmlgroup.github.io/projects/ecg/
 7. Densely connected CNN - https://github.com/liuzhuang13/DenseNet
+8. CNN from scratch - https://www.skcript.com/svr/writing-cnn-from-scratch/
