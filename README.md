@@ -7,3 +7,7 @@
 6. Arrthymic Detection(Stanford) - https://stanfordmlgroup.github.io/projects/ecg/
 7. Densely connected CNN - https://github.com/liuzhuang13/DenseNet
 8. CNN from scratch - https://www.skcript.com/svr/writing-cnn-from-scratch/
+
+
+# to-learn
+1. Rastrigin Function - Non cinvex fuctiion used in some optimization algorithms
